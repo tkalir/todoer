@@ -1,0 +1,56 @@
+.gratitude-page {
+    padding: 20px;
+  }
+  
+  .input-section {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  input {
+    flex: 1;
+    padding: 10px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    padding: 10px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .gratitude-list {
+    margin-top: 20px;
+  }
+  
+  .gratitude-group {
+    margin-bottom: 15px;
+  }
+  
+  .date-header {
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-radius: 4px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding-left: 20px;
+  }
+  
+  li {
+    padding: 5px 0;
+  }
+  
